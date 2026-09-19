@@ -1,2 +1,3 @@
-# Coding-journal-
-This would be my coding journey's diary,i would include my day to day codes i write from simple to complex one
+# Coding-journal
+A space where I hold myself accountable, build a daily coding habit, and showcase my growth as a Java developer
+Thank you
